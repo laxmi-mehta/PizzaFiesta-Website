@@ -20,15 +20,11 @@ Icons & Animations: Remix Icons, CSS Keyframes
 
 🚀 Getting Started
 Clone this repository:
-bash
-Copy
-Edit
 git clone https://github.com/your-username/pizza-website.git
+
 Navigate to the project folder:
-bash
-Copy
-Edit
 cd pizza-website
+
 Open index.html in your browser.
 🌍 Contributing
 Want to improve this project? Fork it, create a pull request, and let’s make it even better together!
